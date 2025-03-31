@@ -1,5 +1,5 @@
 {
-  "name": "astro-strapi-example-project",
+  "name": "astro-strapi",
   "version": "1.0.0",
   "description": "Astro 5 project with Strapi 5",
   "type": "module",

@@ -1,4 +1,4 @@
-# Astro 5 and Strapi 5 Example Project
+# Astro 5 and [Strapi](https://strapi.io) 5
 
 This is an example project for Astro 5 and Strapi 5. It is a simple project that uses Astro 5 and Strapi 5 to create a website with a landing page, a blog, and a contact form.
 
@@ -30,7 +30,6 @@ To seed the database, run:
 yarn seed
 ```
 
-
 And do start both the Astro client and the Strapi server:
 
 ```bash
@@ -46,8 +45,6 @@ The project is structured as follows:
 
 The `client` directory contains the Astro client and the `server` directory contains the Strapi server.
 
-
-
 ## Astro Pages Overview
 
 ### Home Page
@@ -60,9 +57,9 @@ The content is structured in blocks. Each block is a component that is responsib
 
 ![Screenshot of Strapi landing page content type](./img/002-strapi-server-hero.png)
 
+### Dynamic Page
 
-### Dynamic Page 
-The dynamic page is a page that is rendered from a Strapi and consist of blocks similar to the home page. 
+The dynamic page is a page that is rendered from a Strapi and consist of blocks similar to the home page.
 
 ![Screenshot of Strapi dynamic page content type](./img/003-strapi-client-dynamic-page.png)
 
@@ -92,7 +89,6 @@ The article page is rendered from the article content type.
 
 ![Screenshot of the article content type](./img/008-strapi-server-article-page.png)
 
-
 ### Global Page
 
 The global page is responsible for the header and footer content of the website.
@@ -112,7 +108,7 @@ If you have any questions or suggestions, please feel free to post an issue on t
 
 All the best,
 
-Paul 
+Paul
 
 Socials:
 
